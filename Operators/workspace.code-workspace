@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../../../../OneDrive - Michigan State University/Documents/School/College/MSU Classes/SS21/CSE 232/Lab01"
+		},
+		{
+			"path": "../../../../OneDrive - Michigan State University/Documents/School/College/MSU Classes/SS21/CSE 232/lab02"
+		},
+		{
+			"path": "../../../../OneDrive - Michigan State University/Documents/School/College/MSU Classes/SS21/CSE 232"
+		},
+		{
+			"path": "../../../../OneDrive - Michigan State University/Documents/School/College/MSU Classes/SS21/CSE 232/lab 03"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp"
+		}
+	}
+}
